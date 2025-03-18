@@ -1,2 +1,1 @@
-# react_simple_front
-React Test
+# React Simple Front
