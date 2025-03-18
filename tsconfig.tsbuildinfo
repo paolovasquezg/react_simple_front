@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/barchart/barchart.tsx","./src/components/barchart/barcharthero.tsx","./src/components/linechart/linechart.tsx","./src/components/linechart/linecharthero.tsx","./src/lib/chartutils.ts","./src/lib/useonwindowresize.ts","./src/lib/utils.ts"],"version":"5.7.3"}
